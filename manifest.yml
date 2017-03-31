@@ -70,7 +70,7 @@ dependencies:
 - name: php
   version: 5.6.30
   uri: https://github.com/Exygy/exygy-php-5.6.30-linux-x64-31e8b4ca/raw/master/exygy-php-5.6.30-linux-x64-31e8b4ca.tgz
-  md5: d4989ce0d1e2937bab5e8af888906f41
+  md5: 344e18d8a6d64259f3972cd249cad3ea
   cf_stacks:
   - cflinuxfs2
   modules:
