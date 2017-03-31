@@ -84,7 +84,7 @@ def find_all_php_versions(dependencies):
 
     return versions
 
- 
+
 def validate_php_version(ctx):
     if ctx['PHP_VERSION'] in ctx['ALL_PHP_VERSIONS']:
         _log.debug('App selected PHP [%s]', ctx['PHP_VERSION'])
